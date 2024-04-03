@@ -1,37 +1,37 @@
 # Tomato-Food-delivery
+
 React Restaurant Application
 This React application is a restaurant platform where users can explore menu items, add items to their cart, place orders, and proceed to checkout. It features a responsive design and utilizes React Router for navigation.
+
 ## Deployment
+
 The application is deployed and accessible at https://app-food-tomato.netlify.app/
+
 ## ##Features
 
- Sign-in Page: Users can sign in to access additional features <br>
+Sign-in Page: Users can sign in to access additional features <br>
+![image-2](https://github.com/rahul-singh-takuli56/Hungry-Hub/assets/118590603/b3c12be9-8050-4016-9268-0873dbcaa0f3)
 
-![image](https://github.com/Sumithra49/Tomato-Food-delivery/assets/141726527/bce3b2c2-c355-41ef-9ab9-64372d55c373)
-
- Menu Exploration:Users can explore the restaurant's menu items categorized by different food types.<br>
- ![image](https://github.com/Sumithra49/Tomato-Food-delivery/assets/141726527/bf7d10dc-fec3-4090-8329-8dc7b0488fee)
+Menu Exploration:Users can explore the restaurant's menu items categorized by different food types.<br>
+![image-3](https://github.com/rahul-singh-takuli56/Hungry-Hub/assets/118590603/95713bdd-1e8c-402b-898c-920090c09ea8)
 
 Adding to Cart: Users can add items to their cart from the menu.<br>
-![image](https://github.com/Sumithra49/Tomato-Food-delivery/assets/141726527/fabe8daa-a88f-4b77-bcce-bd5ed4d6fc37)
+![image-4](https://github.com/rahul-singh-takuli56/Hungry-Hub/assets/118590603/9fa45aa6-f2ad-465e-8613-28bb28a6c53d)
 
 Filtering: Users can filter menu items based on various criteria such as category, or dietary preferences.<br>
-![image](https://github.com/Sumithra49/Tomato-Food-delivery/assets/141726527/d3373fe4-0b14-4f89-ade2-cbaec08796b7)
+![image-5](https://github.com/rahul-singh-takuli56/Hungry-Hub/assets/118590603/ed2e87a4-9a32-4fdb-a590-eca4a620e77f)
 
 Cart Management: Users can view their cart, remove items, and proceed to checkout.<br>
-![image](https://github.com/Sumithra49/Tomato-Food-delivery/assets/141726527/80fba764-bc79-4749-80cb-6dfa675ee8e1)
+![image](https://github.com/rahul-singh-takuli56/Hungry-Hub/assets/118590603/ac2443fe-640b-441a-9227-04f4d7a70ebe)
 
 Order Placement: Users can input delivery information and place orders.<br>
-![image](https://github.com/Sumithra49/Tomato-Food-delivery/assets/141726527/de526971-c9c7-4235-93b2-dc2690c25b5d)
+![image-6](https://github.com/rahul-singh-takuli56/Hungry-Hub/assets/118590603/4b09f034-9d8b-41a2-8302-92bae9106540)
 
 Responsive Design: The application is responsive and suitable for various screen sizes.<br>
-![image](https://github.com/Sumithra49/Tomato-Food-delivery/assets/141726527/675a6a1c-e7db-4464-82e4-9c6755ddc715)
+![image-1](https://github.com/rahul-singh-takuli56/Hungry-Hub/assets/118590603/c9f4b88f-8830-4cb0-9c1b-aa9c23608984)
 
-
-## Folder Structure
-
-![image](https://github.com/Sumithra49/Tomato-Food-delivery/assets/141726527/872837e1-bb58-467b-82f5-73fe788b7e11)
 ## Tech Stack
+
 The application is built using the following technologies:
 
 React:JavaScript library for building user interfaces.<br>
