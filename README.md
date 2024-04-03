@@ -5,7 +5,7 @@ This React application is a restaurant platform where users can explore menu ite
 
 ## Deployment
 
-The application is deployed and accessible at
+The application is deployed and accessible at https://vercel.com/rahul-singh-s-projects/hungry-hub
 
 ## Features
 
