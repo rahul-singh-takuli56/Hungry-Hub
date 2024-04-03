@@ -1,4 +1,4 @@
-# Tomato-Food-delivery
+# Hungry Hub Food Delivery Website
 
 React Restaurant Application
 This React application is a restaurant platform where users can explore menu items, add items to their cart, place orders, and proceed to checkout. It features a responsive design and utilizes React Router for navigation.
@@ -13,7 +13,7 @@ The application is deployed and accessible at https://vercel.com/rahul-singh-s-p
 
 ![image-2](https://github.com/rahul-singh-takuli56/Hungry-Hub/assets/118590603/b3c12be9-8050-4016-9268-0873dbcaa0f3)
 
-### Menu Exploration:Users can explore the restaurant's menu items categorized by different food types.<br>
+### Menu Exploration: Users can explore the restaurant's menu items categorized by different food types.<br>
 
 ![image-3](https://github.com/rahul-singh-takuli56/Hungry-Hub/assets/118590603/95713bdd-1e8c-402b-898c-920090c09ea8)
 
