@@ -5,36 +5,43 @@ This React application is a restaurant platform where users can explore menu ite
 
 ## Deployment
 
-The application is deployed and accessible at https://app-food-tomato.netlify.app/
+The application is deployed and accessible at
 
-## ##Features
+## Features
 
-Sign-in Page: Users can sign in to access additional features <br>
+### Sign-in Page: Users can sign in to access additional features <br>
+
 ![image-2](https://github.com/rahul-singh-takuli56/Hungry-Hub/assets/118590603/b3c12be9-8050-4016-9268-0873dbcaa0f3)
 
-Menu Exploration:Users can explore the restaurant's menu items categorized by different food types.<br>
+### Menu Exploration:Users can explore the restaurant's menu items categorized by different food types.<br>
+
 ![image-3](https://github.com/rahul-singh-takuli56/Hungry-Hub/assets/118590603/95713bdd-1e8c-402b-898c-920090c09ea8)
 
-Adding to Cart: Users can add items to their cart from the menu.<br>
-![image-4](https://github.com/rahul-singh-takuli56/Hungry-Hub/assets/118590603/9fa45aa6-f2ad-465e-8613-28bb28a6c53d)
+### Adding to Cart: Users can add items to their cart from the menu.<br>
 
-Filtering: Users can filter menu items based on various criteria such as category, or dietary preferences.<br>
+![image-1](https://github.com/rahul-singh-takuli56/Hungry-Hub/assets/118590603/76669dc8-71aa-4856-a03c-510be44485e4)
+
+### Filtering: Users can filter menu items based on various criteria such as category, or dietary preferences.<br>
+
 ![image-5](https://github.com/rahul-singh-takuli56/Hungry-Hub/assets/118590603/ed2e87a4-9a32-4fdb-a590-eca4a620e77f)
 
-Cart Management: Users can view their cart, remove items, and proceed to checkout.<br>
+### Cart Management: Users can view their cart, remove items, and proceed to checkout.<br>
+
 ![image](https://github.com/rahul-singh-takuli56/Hungry-Hub/assets/118590603/ac2443fe-640b-441a-9227-04f4d7a70ebe)
 
-Order Placement: Users can input delivery information and place orders.<br>
+### Order Placement: Users can input delivery information and place orders.<br>
+
 ![image-6](https://github.com/rahul-singh-takuli56/Hungry-Hub/assets/118590603/4b09f034-9d8b-41a2-8302-92bae9106540)
 
-Responsive Design: The application is responsive and suitable for various screen sizes.<br>
-![image-1](https://github.com/rahul-singh-takuli56/Hungry-Hub/assets/118590603/c9f4b88f-8830-4cb0-9c1b-aa9c23608984)
+### Responsive Design: The application is responsive and suitable for various screen sizes.<br>
+
+![image-2](https://github.com/rahul-singh-takuli56/Hungry-Hub/assets/118590603/b74fe1b2-69a5-42bf-a3bb-891a5f1071a9)
 
 ## Tech Stack
 
-The application is built using the following technologies:
+### The application is built using the following technologies:
 
-React:JavaScript library for building user interfaces.<br>
-HTML: Markup language for structuring web pages.<br>
-CSS: Stylesheet language for styling web pages.<br>
-React Router:Declarative routing for React applications.<br>
+`React`:JavaScript library for building user interfaces.<br>
+`HTML`: Markup language for structuring web pages.<br>
+`CSS`: Stylesheet language for styling web pages.<br>
+`React Router`:Declarative routing for React applications.<br>
